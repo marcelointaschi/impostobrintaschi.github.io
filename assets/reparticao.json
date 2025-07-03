@@ -25,5 +25,32 @@
         "cpp": 43.40,
         "cofins": 13.64,
         "pispasep": 2.96
+    },
+    {
+        "faixa": "De R$ 720.000,00 até R$ 1.800.000,00",
+        "irpj": 4,
+        "iss": 32.50,
+        "csll": 3.50,
+        "cpp": 43.40,
+        "cofins": 13.64,
+        "pispasep": 2.96
+    },
+    {
+        "faixa": "De R$ 1.800.000,00 até R$ 3.600.000,00",
+        "irpj": 4,
+        "iss": 33.50,
+        "csll": 3.50,
+        "cpp": 43.40,
+        "cofins": 12.82,
+        "pispasep": 2.78
+    },
+    {
+        "faixa": "De R$ 3.600.000,00 até R$ 4.800.000,00",
+        "irpj": 35,
+        "iss": 0,
+        "csll": 15,
+        "cpp": 30.50,
+        "cofins": 16.03,
+        "pispasep": 3.47
     }
 ]

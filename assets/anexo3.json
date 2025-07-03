@@ -22,5 +22,29 @@
         "deducaoAno": 0,
         "deduzido": 0,
         "aliquota": 0
+    },
+        {
+        "faixa": [720000.00, 1800000.00],
+        "aliquotaBr": 16,
+        "deducao": 35640.00,
+        "deducaoAno": 0,
+        "deduzido": 0,
+        "aliquota": 0
+    },
+        {
+        "faixa": [1800000.00, 3600000.00],
+        "aliquotaBr": 21,
+        "deducao": 125640.00,
+        "deducaoAno": 0,
+        "deduzido": 0,
+        "aliquota": 0
+    },
+        {
+        "faixa": [3600000.00, 4800000.00],
+        "aliquotaBr": 33,
+        "deducao": 648000.00,
+        "deducaoAno": 0,
+        "deduzido": 0,
+        "aliquota": 0
     }
 ]
